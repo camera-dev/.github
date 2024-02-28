@@ -2,13 +2,4 @@
 {
     "name": "CAMERA Workflow",
     "description": "CAMERA CI starter workflow.",
-    "iconName": "example-icon",
-    "categories": [
-        "Python"
-    ],
-    "filePatterns": [
-        "^Dockerfile",
-        ".*\\.md$"
-        ".*\\.py$"
-    ]
 }
