@@ -14,8 +14,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run a one-line script
-<<<<<<< Updated upstream
-        run: echo Hello from CAMERA
-=======
         run: ls -l
->>>>>>> Stashed changes
