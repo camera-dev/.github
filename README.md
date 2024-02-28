@@ -1,2 +1,1 @@
-# .github
-CAMERA development organization
+# CAMERA development organization
